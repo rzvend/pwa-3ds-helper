@@ -1,5 +1,5 @@
 === PWA 3DS Helper ===
-Contributors: you
+Contributors: Ricardo. Z. Vendramini
 Tags: woocommerce, 3ds, pagbank, pwa, checkout
 Requires at least: 6.0
 Tested up to: 6.8
