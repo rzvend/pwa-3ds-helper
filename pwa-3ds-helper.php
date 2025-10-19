@@ -2,7 +2,7 @@
 /**
  * Plugin Name: PWA 3DS Helper
  * Description: Mantém o checkout do WooCommerce estável em PWAs durante 3DS (PagBank), restaura dados, redireciona para "pedido finalizado" e registra logs.
- * Author: Você
+ * Author: Ricardo. Z. Vendramini
  * Version: 3.0.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
