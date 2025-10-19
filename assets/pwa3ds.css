@@ -1,0 +1,6 @@
+#pwa3ds-banner{
+  position:fixed;left:0;right:0;top:0;z-index:99999;
+  padding:10px 14px;
+  background:#111; color:#fff; text-align:center;
+  font-size:14px; font-weight:600; letter-spacing:.2px;
+}
